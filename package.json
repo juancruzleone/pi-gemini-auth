@@ -1,0 +1,9 @@
+{
+  "name": "pi-gemini-oauth",
+  "version": "1.0.0",
+  "description": "Gemini OAuth plugin for Pi using browser-based authentication",
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  },
+  "dependencies": {}
+}
